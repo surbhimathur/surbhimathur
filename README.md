@@ -29,7 +29,7 @@ I am a Front End Developer <img src="https://media.giphy.com/media/cNfIqjpCY1zqf
 <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" width="40" height="40" />&nbsp; &nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" width="40" height="40" />&nbsp; &nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" width="40" height="40"/>&nbsp; &nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original-wordmark.svg" width="40" height="40"/>&nbsp; &nbsp;
+<img src="https://coursework.vschool.io/content/images/2015/11/68747470733a2f2f692e636c6f756475702e636f6d2f7a6659366c4c376546612d3330303078333030302e706e67.png" width="40" height="40"/>&nbsp; &nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/heroku/heroku-original-wordmark.svg" width="40" height="40"/>&nbsp; &nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" width="40" height="40"/>&nbsp; &nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="40" height="40"/>&nbsp; &nbsp;
