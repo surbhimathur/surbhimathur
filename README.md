@@ -16,15 +16,15 @@ I am a Front End Developer <img src="https://media.giphy.com/media/cNfIqjpCY1zqf
 
 -:woman_technologist: Designed & developed 4 full stack projects and designed some samples.
 
--📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-surbhi-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/surbhi-mathur-0958b71b5/)
+-📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-surbhimathur-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/surbhi-mathur-0958b71b5/)
 
 -✉️ You can shoot me an email at surbhimathur9@gmail.com ! I'll try to respond as soon as I can.
 
--:writing_hand: Please have a look at my <a href="https://drive.google.com/file/d/1_UX0-FGGVX-Nv24JrOpIrJ858qLR08u-/view" target="_blank">Resume</a>for more details about me.
+-:writing_hand: Please have a look at my <a href="https://drive.google.com/file/d/1_UX0-FGGVX-Nv24JrOpIrJ858qLR08u-/view" target="_blank">Resume</a> for more details about me.
 
 ---
 
-### :hammer_and_wrench: Languages and Tools :
+### :hammer_and_wrench: Tech Stack:
 <div>
 <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" width="40" height="40" />
 <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" width="40" height="40" />
@@ -50,9 +50,10 @@ I am a Front End Developer <img src="https://media.giphy.com/media/cNfIqjpCY1zqf
 
 
 ---
-
+🤝🏻 Connect with Me
 <div classname="badges">
 <a href="https://www.linkedin.com/in/surbhi-mathur-0958b71b5/" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge" />
 </a>
+
 </div>
