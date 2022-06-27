@@ -29,7 +29,7 @@ I am a Front End Developer <img src="https://media.giphy.com/media/cNfIqjpCY1zqf
 <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" width="40" height="40" />&nbsp; &nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" width="40" height="40" />&nbsp; &nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" width="40" height="40"/>&nbsp; &nbsp;
-<img src="https://static.wikia.nocookie.net/usastorefanon/images/6/67/Express-fashion-stores-logo.png/revision/latest?cb=20181230182057" width="40" height="40"/>&nbsp; &nbsp;
+<img src="[https://static.wikia.nocookie.net/usastorefanon/images/6/67/Express-fashion-stores-logo.png/revision/latest?cb=20181230182057](https://miro.medium.com/max/800/1*9AbbVli10NreTXCpiVYEOQ.png)" width="40" height="40"/>&nbsp; &nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/heroku/heroku-original-wordmark.svg" width="40" height="40"/>&nbsp; &nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" width="40" height="40"/>&nbsp; &nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="40" height="40"/>&nbsp; &nbsp;
